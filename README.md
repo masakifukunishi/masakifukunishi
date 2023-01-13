@@ -2,9 +2,9 @@
 
 #### Likes
 
+- 🔥Anime & Manga
 - 😜Comedy
 - 🍿Movies
-- 👹Manga
 - ✨Coding
 
 #### Accounts
