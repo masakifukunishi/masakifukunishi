@@ -4,7 +4,7 @@
 
 - 🔥Anime & Manga
 - 😜Comedy
-- 🍿Movies
+- 🎥Movies
 - ✨Coding
 
 #### Accounts
