@@ -15,6 +15,7 @@ Crypto Chart is a full-stack MERN app that lets users view candlestick charts of
 
 ### PWA List
 Web app that lets developers post PWAs and users to view them.
+
 More than 100 PWAs have been submitted by developers 🙌
 
 - [Live](https://pwalist.app/)
