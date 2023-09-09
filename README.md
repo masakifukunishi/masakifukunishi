@@ -2,7 +2,7 @@ Hi there, Thanks for visiting my profile page!
 
 ## whoami
 - 📍 British Columbia, Canada
-- 🖥️ Software Developer : Client side(React) - Server side(Node, Python) etc...
+- 💡 Software Developer: Client side(React) - Server side(Node, Python) etc...
 - 🎥 Fan of Edgar Wright's movies
 
 [Portfolio](https://masakifukunishi.site)&nbsp;/&nbsp;[Linkedin](https://www.linkedin.com/in/masaki-fukunishi/)
