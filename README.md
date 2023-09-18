@@ -1,4 +1,4 @@
-Hi there it's Masaki, Thanks for visiting my profile page!
+Hi there, it's Masaki👋 Thanks for visiting my profile page!
 
 ## whoami
 - 💡 Software Developer: Client side(React) - Server side(Node, Python) etc...
