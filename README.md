@@ -14,6 +14,7 @@ Hi there, it's Masaki👋 Thanks for visiting my profile page!
 
 Crypto Chart is a full-stack [MERN](https://www.geeksforgeeks.org/mern-stack/) app that lets users view candlestick charts of cryptocurrencies for selected asset pairs and periods 📈
 
+- [Demo](https://crypto-chart-1r7g.onrender.com)
 - [GitHub](https://github.com/masakifukunishi/crypto-chart)
 
 ### PWA List
@@ -23,5 +24,5 @@ Web app that lets developers post PWAs and users view them.
 
 More than 150 PWAs have been submitted by developers 🙌
 
-- [Live](https://pwalist.app/)
+- [App](https://pwalist.app)
 - [GitHub](https://github.com/masakifukunishi/pwa-list)
