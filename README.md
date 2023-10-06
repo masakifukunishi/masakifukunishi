@@ -20,9 +20,9 @@ Crypto Chart is a full-stack [MERN](https://www.geeksforgeeks.org/mern-stack/) a
 ### PWA List
 ![PWA List Screenshot](https://github.com/masakifukunishi/masakifukunishi/assets/42294938/c6cdb3ef-0ec6-4cb4-b668-81f716afbb19)
 
-Web app that lets developers post PWAs and users view them.
+Web app that lets developers post PWA and users view them.
 
-More than 150 PWAs have been submitted by developers 🙌
+More than 150 PWA have been submitted by developers 🙌
 
 - [App](https://pwalist.app)
 - [GitHub](https://github.com/masakifukunishi/pwa-list)
