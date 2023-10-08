@@ -10,7 +10,7 @@ Hi there, it's Masaki👋 Thanks for visiting my profile page!
 
 ## Projects
 ### Crypto Chart
-![Crypto Chart Screenshot](https://github.com/masakifukunishi/masakifukunishi/assets/42294938/fe4b4c45-34d7-4989-911f-781437beefdb)
+![Crypto Chart Screenshot](https://github.com/masakifukunishi/crypto-chart/assets/42294938/90eeb254-a569-48fc-ab90-15a5ee57791f)
 
 Crypto Chart is a full-stack [MERN](https://www.geeksforgeeks.org/mern-stack/) app that lets users view candlestick charts of cryptocurrencies for selected asset pairs and periods 📈
 
