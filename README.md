@@ -5,7 +5,7 @@ Hi there, it's Masaki👋 Thanks for visiting my profile page!
 - 📍 British Columbia, Canada
 - 🎥 Fan of Edgar Wright's movies
 
- [Linkedin](https://www.linkedin.com/in/masaki-fukunishi) / [Website](https://masakifukunishi.site)
+ [LinkedIn](https://www.linkedin.com/in/masaki-fukunishi) / [Website](https://masakifukunishi.site)
 
 
 ## Projects
