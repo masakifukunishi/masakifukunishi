@@ -25,4 +25,3 @@ Web app that lets developers post PWA and users view them.
 More than 150 PWA have been submitted by developers 🙌
 
 - [App](https://pwalist.app)
-- [GitHub](https://github.com/masakifukunishi/pwa-list)
