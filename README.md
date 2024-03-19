@@ -13,7 +13,7 @@ Hi there, Thanks for visiting my profile page!
 
 ## Projects
 ### NFT Craft
-![NFT Craft Screenshot](https://github.com/masakifukunishi/nft-craft/assets/42294938/5d344009-b6f8-4486-bad4-e35ef5ec2425)
+<img src="https://github.com/masakifukunishi/nft-craft/assets/42294938/5d344009-b6f8-4486-bad4-e35ef5ec2425" width="80%">
 
 NFT Craft is a web app that allows users to mint NFTs (ERC-721 tokens) and view them.
 
@@ -21,7 +21,8 @@ NFT Craft is a web app that allows users to mint NFTs (ERC-721 tokens) and view 
 - [GitHub](https://github.com/masakifukunishi/nft-craft)
 
 ### Crypto Chart
-![Crypto Chart Screenshot](https://github.com/masakifukunishi/crypto-chart/assets/42294938/90eeb254-a569-48fc-ab90-15a5ee57791f)
+<img src="https://github.com/masakifukunishi/crypto-chart/assets/42294938/90eeb254-a569-48fc-ab90-15a5ee57791f" width="80%">
+
 
 Crypto Chart is a full-stack [MERN](https://www.geeksforgeeks.org/mern-stack/) app that lets users view candlestick charts of cryptocurrencies for selected asset pairs and periods 📈
 
@@ -29,7 +30,7 @@ Crypto Chart is a full-stack [MERN](https://www.geeksforgeeks.org/mern-stack/) a
 - [GitHub](https://github.com/masakifukunishi/crypto-chart)
 
 ### PWA List
-![PWA List Screenshot](https://github.com/masakifukunishi/masakifukunishi/assets/42294938/c6cdb3ef-0ec6-4cb4-b668-81f716afbb19)
+<img src="https://github.com/masakifukunishi/masakifukunishi/assets/42294938/c6cdb3ef-0ec6-4cb4-b668-81f716afbb19" width="80%">
 
 Web app that lets developers post PWA and users view them.
 
