@@ -2,9 +2,9 @@ Hi there, Thanks for visiting my profile page!
 
 ## whoami
 - 💡 Software Developer
-  - Client-side (React)
-  - Server-side (TypeScript, Python)
-  - Database (MySQL, MongoDB)
+    
+    Client-side (React) / Server-side (TypeScript, Python) / Database (MySQL, MongoDB)
+    
 - 📍 Japan
 - 🎥 Fan of Edgar Wright's movies
 
