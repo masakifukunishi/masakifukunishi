@@ -24,7 +24,6 @@ NFT Craft is a web app that allows users to mint NFTs (ERC-721 tokens) and view 
 
 Crypto Chart is a full-stack [MERN](https://www.geeksforgeeks.org/mern-stack/) app that lets users view candlestick charts of cryptocurrencies for selected asset pairs and periods 📈
 
-- [App](https://crypto-chart-1r7g.onrender.com)
 - [GitHub](https://github.com/masakifukunishi/crypto-chart)
 
 ### PWA List
