@@ -2,8 +2,11 @@ Hi there, Thanks for visiting my profile page!
 
 ## whoami
 - 💡 Software Developer
-    - Client-side (React)
-    - Server-side (TypeScript, Python)
+    - Frontend : React
+    - Backend : TypeScript, Python
+    - Databases : MySQL, PostgreSQL, MongoDB
+    - Infrastructure : AWS, Docker
+    - Design : Figma
 - 📍 Japan
 - 🎥 Fan of Edgar Wright's movies
 
