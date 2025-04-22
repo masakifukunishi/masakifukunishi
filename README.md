@@ -1,3 +1,6 @@
+Hi there!
+
+## whoami
 - 💡 Software Developer
     - Frontend : React
     - Backend : TypeScript, Python
