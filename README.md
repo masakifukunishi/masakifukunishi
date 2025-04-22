@@ -1,6 +1,4 @@
-Hi there, Thanks for visiting my profile page!
-
-## whoami
+# whoami
 - 💡 Software Developer
     - Frontend : React
     - Backend : TypeScript, Python
